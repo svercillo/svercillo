@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 <p></p> 
 
 
-I'm Stefan Vercillo!
 
 - 🔭 I’m currently working on developing my Kafka and Kubernetes skills
 - 🌱 I’m currently learning how microservices interact together!
