@@ -19,12 +19,11 @@ I'm Stefan Vercillo!
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<img align="right" alt="GIF" src="https://github.com/svercillo/wiki/blob/master/.gitbook/assets/happy.gif" />
 
-<a href="https://github-readme-stats.vercel.app/api?username=svercillo&count_private=true&show_icons=true&theme=cobalt&include_all_commits=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=svercillo&count_private=true&show_icons=true&theme=cobalt&include_all_commits=true" />
+<a href="https://github-readme-stats.vercel.app/api?username=svercillo&count_private=true&show_icons=true&theme=gotham&include_all_commits=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=svercillo&count_private=true&show_icons=true&theme=gotham&include_all_commits=true" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=svercillo&theme=cobalt&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svercillo&theme=cobalt&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svercillo&theme=gotham&layout=compact" />
 </a>
 
