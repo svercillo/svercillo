@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </a>
 <a href="https://open.spotify.com/user/31nb3eiwtslbbsudok7aocree2hm">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a> \ 
+</a>\
 
 
 
