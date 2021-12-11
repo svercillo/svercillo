@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 
 
+
 I'm Stefan Vercillo!
 
 - 🔭 I’m currently working on developing my Kafka and Kubernetes skills
