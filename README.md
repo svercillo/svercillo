@@ -93,7 +93,3 @@ Go          57 mins        ▓░░░░░░░░░░░░░░░░�
 </a>
 
 
-<script>
-  document.getElementById("target-me").open = true;
-  
-</script> 
