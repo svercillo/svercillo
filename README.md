@@ -38,9 +38,7 @@ I'm Stefan Vercillo!
 - 🤔 I’m looking for help with frontend development
 - 💬 Ask me about Cryto hashing algorithms and block-chain validation 
 - 📫 How to reach me: [email](mailto:snvercil@uwaterloo.ca) or [LinkedIn](https://www.linkedin.com/in/stefan-vercillo/)
-
-
-- ⚡ Fun fact:
+- ⚡ Fun fact: It took less code to send a man to space than to run a smartphone!
 
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
