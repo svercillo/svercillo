@@ -41,6 +41,20 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
+
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+```text
+Python     40 hrs  3 mins  ███████████████████▓░░░░░   78.51 % 
+SQL         4 hrs 51 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+C++         1 hr  34 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Java        1 hr  20 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+Go          57 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+```
+<!--END_SECTION:waka-->
+
+-------
+
 <a href="https://github-readme-stats.vercel.app/api?username=svercillo&count_private=true&show_icons=true&theme=gotham&include_all_commits=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=svercillo&count_private=true&show_icons=true&theme=gotham&include_all_commits=true" />
 </a>
