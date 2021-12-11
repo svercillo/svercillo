@@ -16,7 +16,7 @@ I'm Stefan Vercillo!
 - 👯 I’m looking to collaborate on my AI real estate evaluation project
 - 🤔 I’m looking for help with frontend development
 - 💬 Ask me about Cryto hashing algorithms and block-chain validation 
-- 📫 How to reach me: email or LinkedIn!
+- 📫 How to reach me: [email](mailto:snvercil@uwaterloo.ca) or [LinkedIn](https://www.linkedin.com/in/stefan-vercillo/)
 - ⚡ Fun fact:
 
 
