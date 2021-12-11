@@ -36,8 +36,7 @@ I'm Stefan Vercillo!
 - 🤔 I’m looking for help with frontend development
 - 💬 Ask me about Cryto hashing algorithms and block-chain validation 
 - 📫 How to reach me: [email](mailto:snvercil@uwaterloo.ca) or [LinkedIn](https://www.linkedin.com/in/stefan-vercillo/)
-- 💼 any freelance work? do reach, [email](mailto:snvercil@uwaterloo.ca) :)
-- 💬 ask me about anything, i am happy to help;
+
 
 - ⚡ Fun fact:
 
@@ -47,6 +46,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
+  
+- 💼 any freelance work? do reach, [email](mailto:snvercil@uwaterloo.ca) :)
+- 💬 ask me about anything, i am happy to help;
 
 
 
