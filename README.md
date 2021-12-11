@@ -11,14 +11,29 @@ Here are some ideas to get you started:
 ### Hi there 👋
 I'm Stefan Vercillo!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on developing my Kafka and Kubernetes skills
+- 🌱 I’m currently learning how microservices interact together!
+- 👯 I’m looking to collaborate on my AI real estate evaluation project
+- 🤔 I’m looking for help with frontend development
+- 💬 Ask me about Cryto hashing algorithms and block-chain validation 
+- 📫 How to reach me: email or LinkedIn!
+- ⚡ Fun fact:
+
+
+- 💼 any freelance work? do reach, [email](mailto:snvercil@uwaterloo.ca) :)
+- 💬 ask me about anything, i am happy to help;
+
+**languages and tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
 
 <a href="https://github-readme-stats.vercel.app/api?username=svercillo&count_private=true&show_icons=true&theme=gotham&include_all_commits=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=svercillo&count_private=true&show_icons=true&theme=gotham&include_all_commits=true" />
