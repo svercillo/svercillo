@@ -76,7 +76,7 @@ I am also an open-source enthusiast and maintainer. I believe it's the purest fo
 <!--START_SECTION:waka-->
 ```text
 Python     40 hrs  3 mins  ███████████████████▓░░░░░   78.51 % 
-SQL         4 hrs 51 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+SQL         4 hrs 51 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   09.31 % 
 C++         1 hr  34 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 Java        1 hr  20 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 Go          57 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
