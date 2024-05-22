@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-
+<!--
 <a href="https://discord.gg/">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png" />
 </a>
@@ -24,6 +24,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" />
 </a>
 <br /> 
+--> 
 
 
 
