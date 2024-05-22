@@ -9,8 +9,10 @@ Here are some ideas to get you started:
 
 
 ### Hi there 👋
+
+
 <a href="https://discord.gg/">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://www.logo.wine/a/logo/GitHub/GitHub-Logo.wine.svg" />
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png" />
 </a>
 <a href="https://twitter.com/VercilloStefan">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
