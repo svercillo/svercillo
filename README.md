@@ -88,6 +88,8 @@ Go          57 mins        ▓░░░░░░░░░░░░░░░░�
 
 -------
 
+<!-- 
+
 <a href="https://github-readme-stats.vercel.app/api?username=svercillo&count_private=true&show_icons=true&theme=gotham&include_all_commits=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=svercillo&count_private=true&show_icons=true&theme=gotham&include_all_commits=true" />
 </a>
@@ -96,3 +98,4 @@ Go          57 mins        ▓░░░░░░░░░░░░░░░░�
 </a>
 
 
+ -->
